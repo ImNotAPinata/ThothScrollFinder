@@ -16,3 +16,20 @@ C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\ThothScrollFinder\ThothS
 C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\qualifiers.txt
 C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\qualifiers.txt.intermediate
 C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\bin\Debug\ThothScrollFinder.Data.dll
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\bin\Debug\ThothScrollFinder.Data.pdb
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\bin\Debug\ThothScrollFinder.Data.pri
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\ThothScrollFinder.Data.csproj.CoreCompileInputs.cache
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\ThothScrollFinder.Data.dll
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\ThothScrollFinder.Data.pdb
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\priconfig.xml
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\priconfig.xml.intermediate
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\layout.resfiles
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\layout.resfiles.intermediate
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\resources.resfiles
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\resources.resfiles.intermediate
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\pri.resfiles
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\pri.resfiles.intermediate
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\qualifiers.txt
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\qualifiers.txt.intermediate
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Data\obj\Debug\MultipleQualifiersPerDimensionFound.txt

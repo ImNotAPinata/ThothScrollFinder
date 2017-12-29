@@ -16,3 +16,21 @@ C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\ThothScrollFinder\ThothS
 C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\qualifiers.txt
 C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\qualifiers.txt.intermediate
 C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\bin\Debug\ThothScrollFinder.Model.dll
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\bin\Debug\ThothScrollFinder.Model.pdb
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\bin\Debug\ThothScrollFinder.Model.pri
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\ThothScrollFinder.Model.csprojResolveAssemblyReference.cache
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\ThothScrollFinder.Model.csproj.CoreCompileInputs.cache
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\ThothScrollFinder.Model.dll
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\ThothScrollFinder.Model.pdb
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\priconfig.xml
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\priconfig.xml.intermediate
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\layout.resfiles
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\layout.resfiles.intermediate
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\resources.resfiles
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\resources.resfiles.intermediate
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\pri.resfiles
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\pri.resfiles.intermediate
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\qualifiers.txt
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\qualifiers.txt.intermediate
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Model\obj\Debug\MultipleQualifiersPerDimensionFound.txt

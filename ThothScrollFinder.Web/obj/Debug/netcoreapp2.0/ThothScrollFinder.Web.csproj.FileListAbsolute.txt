@@ -9,3 +9,14 @@ C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\ThothScrollFinder\ThothS
 C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\ThothScrollFinder\ThothScrollFinder.Web\obj\Debug\netcoreapp2.0\ThothScrollFinder.Web.AssemblyInfo.cs
 C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\ThothScrollFinder\ThothScrollFinder.Web\obj\Debug\netcoreapp2.0\ThothScrollFinder.Web.dll
 C:\Users\jsanchez\Documents\Visual Studio 2017\Projects\ThothScrollFinder\ThothScrollFinder.Web\obj\Debug\netcoreapp2.0\ThothScrollFinder.Web.pdb
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Web\bin\Debug\netcoreapp2.0\ThothScrollFinder.Web.deps.json
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Web\bin\Debug\netcoreapp2.0\ThothScrollFinder.Web.runtimeconfig.json
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Web\bin\Debug\netcoreapp2.0\ThothScrollFinder.Web.runtimeconfig.dev.json
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Web\bin\Debug\netcoreapp2.0\ThothScrollFinder.Web.dll
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Web\bin\Debug\netcoreapp2.0\ThothScrollFinder.Web.pdb
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Web\obj\Debug\netcoreapp2.0\ThothScrollFinder.Web.csprojResolveAssemblyReference.cache
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Web\obj\Debug\netcoreapp2.0\ThothScrollFinder.Web.csproj.CoreCompileInputs.cache
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Web\obj\Debug\netcoreapp2.0\ThothScrollFinder.Web.AssemblyInfoInputs.cache
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Web\obj\Debug\netcoreapp2.0\ThothScrollFinder.Web.AssemblyInfo.cs
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Web\obj\Debug\netcoreapp2.0\ThothScrollFinder.Web.dll
+D:\Dev\ThothScrollFinder\ThothScrollFinder.Web\obj\Debug\netcoreapp2.0\ThothScrollFinder.Web.pdb
