@@ -25735,11 +25735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jsanchez\\Documents\\Visual Studio 2017\\Projects\\ThothScrollFinder.Web\\ThothScrollFinder.Service\\ThothScrollFinder.Service.csproj",
+      "projectUniqueName": "C:\\Users\\jsanchez\\Documents\\Visual Studio 2017\\Projects\\ThothScrollFinder\\ThothScrollFinder.Service\\ThothScrollFinder.Service.csproj",
       "projectName": "ThothScrollFinder.Service",
-      "projectPath": "C:\\Users\\jsanchez\\Documents\\Visual Studio 2017\\Projects\\ThothScrollFinder.Web\\ThothScrollFinder.Service\\ThothScrollFinder.Service.csproj",
+      "projectPath": "C:\\Users\\jsanchez\\Documents\\Visual Studio 2017\\Projects\\ThothScrollFinder\\ThothScrollFinder.Service\\ThothScrollFinder.Service.csproj",
       "packagesPath": "C:\\Users\\jsanchez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jsanchez\\Documents\\Visual Studio 2017\\Projects\\ThothScrollFinder.Web\\ThothScrollFinder.Service\\obj\\",
+      "outputPath": "C:\\Users\\jsanchez\\Documents\\Visual Studio 2017\\Projects\\ThothScrollFinder\\ThothScrollFinder.Service\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

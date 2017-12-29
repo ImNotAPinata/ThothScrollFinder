@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <environment names="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/style.css" />
+    </environment>
+</head>
+<body>
+    <span id="background"></span>
+    <div id="page">
+        <div id="sidebar">
+            <div id="logo">
+                <a href="index.html">The selected works of <em>Christianne Manjow</em></a>
+            </div> <!-- /#logo -->
+            <ul id="navigation">
+                <li><a href="about.html">About</a></li>
+                <li class="selected"><a href="index.html">Illustrations</a></li>
+                <li><a href="images.html">Selected Images</a></li>
+                <li><a href="contact-us.html">Contact Us</a></li>
+                <li><a href="blog.html">Blog</a></li>
+            </ul> <!-- /#navigation -->
+            <ul id="connect">
+                <li><a href="https://jira.cignium.com" target="_blank" class="Jira"></a></li>
+                <li><a href="https://stash.cignium.com" target="_blank" class="Stash"></a></li>
+                <li><a href="https://confluence.cignium.com" target="_blank" class="Confluence"></a></li>
+            </ul> <!-- /#connect -->
+            <div class="footer">
+                &copy; Copyright &copy; 2011.<br />
+                <a href="index.html">Company name</a> all rights reserved.
+            </div> <!-- /.footer -->
+        </div> <!-- /#sidebar -->
+
+        <div id="contents">
+            @RenderBody()
+            <hr />
+            <footer class="center-block">
+                <p>&copy; 2018 - Cignium Technologies</p>
+            </footer>
+        </div> <!-- /#contents -->
+    </div> <!-- /#page -->
+    <environment names="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    </environment>
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+
+ 
